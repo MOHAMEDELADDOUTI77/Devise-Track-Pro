@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.streamlit/
+devise_track.db
+donnees_historiques.csv
+.pytest_cache/

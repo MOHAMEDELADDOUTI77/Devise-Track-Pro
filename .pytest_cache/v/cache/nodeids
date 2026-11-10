@@ -1,0 +1,4 @@
+[
+  "tests/test_calculations.py::test_calculer_moyenne",
+  "tests/test_calculations.py::test_calculer_variation"
+]
